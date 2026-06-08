@@ -143,6 +143,3 @@ id - image id corresponding to images in the images/folder
 Atelectasis - one of the 20 classes with value either 1 or 0
 Cardiomegaly - one of the 20 classes with value either 1 or 0
 Similarly rest of the columns are denoting classes. Each row will have first column named id and rest of the 20 columns being the classes. In each row only one class will have value 1 and rest of the classes will have values as 0.
-
-Citation
-AVINASH SINGH913. 26t1DLGenAINPPE1. https://kaggle.com/competitions/26-t-1-dl-gen-ainppe-1, 2026. Kaggle.
